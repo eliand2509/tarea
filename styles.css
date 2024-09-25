@@ -1,0 +1,25 @@
+body 
+{
+    background-color: rgb(255, 255, 255);
+    background: url("https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/5e7f533c3b4f46244ca228af62e83dfa.jpg");
+
+    padding: 50px;
+}
+
+    h1,h2,h3,h4,p
+    { 
+        color: rgb(255, 0, 0);
+        box-shadow: 5px 5px 5px #000000 ;
+        background-color: #000000;
+    }
+a
+{
+    font-size: 1.5rem;
+    color: rgb(255, 2, 2);
+    box-shadow: 5px 5px 5px #000000 ;
+    background-color: #000000;
+}
+ *
+ {
+    text-align: center;
+ } 
